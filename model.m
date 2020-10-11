@@ -5,6 +5,7 @@ addpath('src');
 dataSet = ["Biomed","DiabeticRetinopathy","Ecoli","Imports","Vowel","Concordia_0","Concordia_1"];
 % dataSet = ["Biomed"];
 kf = 5; trainFlag=1;
+mkdir('Results');
 
 for data_num=1:length(dataSet)
     dataset_name = char(dataSet(data_num));
