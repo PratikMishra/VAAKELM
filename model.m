@@ -126,8 +126,8 @@ for data_num=1:length(dataSet)
 	save(['Results/' dataset_name '_Results.mat'],'dataset_name','f11','gm','accu','prec','rec');
 
 	disp(dataset_name);
-    fprintf('  F1 Score for VAAKELM: %s\n', num2str(f11));
-    fprintf('  Parameters selected for VAAKELM:\n');
+    	fprintf('  F1 Score for VAAKELM: %s\n', num2str(f11));
+    	fprintf('  Parameters selected for VAAKELM:\n');
 	fprintf('     Regularization parameter (C): %s\n', param(2,2));
 	fprintf('     Graph Regularization parameter (lambda): %s\n', param(2,4));
 	fprintf('     Number of clusters (k): %s\n', param(2,5));
