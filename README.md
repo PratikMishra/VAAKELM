@@ -1,6 +1,6 @@
 # Minimum Variance Embedded Auto-associative Kernel Extreme Learning Machine for One-class Classification (VAAKELM)
 
-**Paper**: Minimum Variance Embedded Auto-associative Kernel Extreme Learning Machine for One-class Classification (**Submitted**)
+**Paper**: <a href="https://arxiv.org/pdf/2011.12208.pdf"> Minimum Variance Embedded Auto-associative Kernel Extreme Learning Machine for One-class Classification </a> (**Submitted**)
 
 **Authors**: Pratik K Mishra, Chandan Gautam, Aruna Tiwari
 
